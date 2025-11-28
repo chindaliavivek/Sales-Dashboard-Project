@@ -1,0 +1,27 @@
+Sales Performance Insights – Superstore Dashboard
+
+1]Overall Sales Trends
+Year-over-year sales show steady growth.
+Seasonal spikes observed in November–December.
+
+2]Category Performance
+Technology generates the highest revenue.
+Office Supplies have high volume but low profit.
+Furniture has mixed performance due to high discounts.
+
+3]Regional Insights
+West region leads in total sales.
+South performs weaker but has high-value customers.
+
+4]Customer Insights
+Top 10 customers contribute significantly to total revenue.
+High repeat purchases in Corporate and Consumer segments.
+
+5]Profitability
+Profit ratio strongest in Technology category.
+Losses mainly come from high discount furniture items.
+
+6]Recommendations
+Reduce discounts in Furniture to improve profit.
+Increase marketing for low-performing regions.
+Grow Tech category — highest ROI.
